@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Runner/Scenes/Perdiste.unity
+    guid: abd8755f94713724ebb15e264180db44
+  - enabled: 1
+    path: Assets/Runner/Scenes/Runner3D.unity
+    guid: 1c4cc1098e3d45d4484822079fe1c79a
+  - enabled: 1
+    path: Assets/Runner/Scenes/Ganaste.unity
+    guid: cdb9f0d7156329046bbdaeaf140337cf
+  - enabled: 1
+    path: "Assets/Sincronizaci\xF3n/Assets/Scenes/Ganar.unity"
+    guid: 0dc7b7c499b46304c88094004e6d6b23
+  - enabled: 1
+    path: "Assets/Sincronizaci\xF3n/Assets/Scenes/Perder.unity"
+    guid: c1e1148080f1a344eb20e93298e14dac
+  - enabled: 1
+    path: Assets/Shooter/Assets/Scenes/Level1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Shooter/Assets/Scenes/Menu.unity
+    guid: 9ca420345d02c1345bba39b0a123d4eb
+  - enabled: 1
+    path: Assets/Menu prueba.unity
+    guid: 386fdf65974d0204990f30b6abe28e3d
+  - enabled: 1
+    path: "Assets/Sincronizaci\xF3n/Assets/Scenes/Sincro_GuitarHero.unity"
+    guid: 542dcdf43d8efee46b5522ee839f8231
+  - enabled: 1
+    path: "Assets/Sincronizaci\xF3n/Assets/Scenes/Sincro_GuitarHero_Fuego.unity"
+    guid: 71c42154c669c9e46ba57ec45c486d05
+  - enabled: 1
+    path: "Assets/Sincronizaci\xF3n/Assets/Scenes/CinematicaDeInicio.unity"
+    guid: 6daee48bbac6cb44eafee772b612251d
+  - enabled: 1
+    path: "Assets/Sincronizaci\xF3n/Assets/Scenes/Cinematica1.unity"
+    guid: 069f4384933b6e149beb5015d6e52ad8
+  - enabled: 1
+    path: "Assets/Sincronizaci\xF3n/Assets/Scenes/Sincro_GuitarHero_Agua.unity"
+    guid: d657c7b8355b754438f8c923c6792331
+  - enabled: 1
+    path: "Assets/Sincronizaci\xF3n/Assets/Scenes/CinematicaAgua.unity"
+    guid: 73ab00f43e4d4844790fc7e91f7d1d8c
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
